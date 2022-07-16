@@ -4,14 +4,15 @@
 ![](/imagenes/virtual%20machine.png)
 
 **Requisitos**
-- Cuenta de Azure con una suscripción activa.
+- Cuenta de Azure con una suscripción activa
 - Equipo de cómputo con sistema operativo: Windows, Linux o MacOs.
 - Descargar la aplicación de escritorio remoto de Microsoft de Microsoft Store o descargarla desde un navegador.  
 
 
 **Pasos**
 Se inicia sesión en Portal.Azure.com.
-En la barra de búsqueda escribimos “máquinas virtuales” y lo seleccionamos.
+
+En la barra de búsqueda escribimos “máquinas virtuales” y lo seleccionamos.  
 Damos clic en el apartado crear y ahí escogemos la primer opción que se nos muestra de la lista desplegable.
 ![Imagen 1](/imagenes/Imagen1.jpg)
 
