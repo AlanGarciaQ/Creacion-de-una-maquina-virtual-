@@ -9,16 +9,15 @@
 - Descargar la aplicación de escritorio remoto de Microsoft de Microsoft Store o descargarla desde un navegador.  
 
 
-**Pasos**
-Se inicia sesión en Portal.Azure.com.
-
+**Pasos**  
+Se inicia sesión en Portal.Azure.com.  
 En la barra de búsqueda escribimos “máquinas virtuales” y lo seleccionamos.  
 Damos clic en el apartado crear y ahí escogemos la primer opción que se nos muestra de la lista desplegable.
 ![Imagen 1](/imagenes/Imagen1.jpg)
 
-En la pestaña datos básicos, llenamos lo siguiente:
-**En Detalles del proyecto**
-Suscripción: La suscripción que queramos utilizar.
+En la pestaña datos básicos, llenamos lo siguiente:  
+**En Detalles del proyecto**  
+Suscripción: La suscripción que queramos utilizar.  
 Grupo de recursos: Podemos crear uno o seleccionar uno ya existente.
 ![](/imagenes/Imagen2.png)
 
